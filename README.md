@@ -8,3 +8,6 @@ Beware that this is extracted from Windows and there may be platform specific CS
 
 ## Only interested in the core CSS file?
 link to gist: https://gist.github.com/Remzi1993/23350e22a51d325ed00171c117fb66d4
+
+## JavaFX CSS Reference Guide
+https://openjfx.io/javadoc/19/javafx.graphics/javafx/scene/doc-files/cssref.html
