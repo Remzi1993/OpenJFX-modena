@@ -28,5 +28,3 @@ https://openjfx.io/javadoc/19/javafx.graphics/javafx/scene/doc-files/cssref.html
 
 ## Release Notes
 https://github.com/openjdk/jfx/blob/jfx19/doc-files/release-notes-19.md (Release Notes for JavaFX 19)
-
-
