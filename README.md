@@ -12,6 +12,9 @@ I hope this will help you understand the CSS structure and override it more easi
 
 Beware that this is extracted from Windows and there may be platform specific CSS rules/hacks in it.
 
+## Repo dir
+- https://github.com/openjdk/jfx/tree/master/modules/javafx.controls/src/main/resources/com/sun/javafx/scene/control/skin/modena (the structure might change in the future - that's way I have uploaded the whole folder in this repo)
+
 ## Only interested in the core CSS file?
 link to gist: https://gist.github.com/Remzi1993/23350e22a51d325ed00171c117fb66d4
 
